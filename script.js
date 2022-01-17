@@ -45,7 +45,7 @@ function chooseOne(id){
 
 function displayBig(id){
     console.log(id);
-    fetch("projects.json")
+    fetch("Portfolio/projects.json")
         .then(response => response.json())
         .then(data => {
             console.log(data[id].name);
