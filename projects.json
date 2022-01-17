@@ -1,46 +1,43 @@
-{
-    "1": {
-        "name": "This portfolio", 
-        "tech": "HTML5 - CSS3 - JS - Bootstrap",
-        "context": "Personnal Project",
-        "description": "",
-        "github": "https://github.com/Katana10/portfolio"
-    },
-    "2": {
-        "name": "Pong", 
-        "tech": "C++ - Qt5",
-        "context": "Scolar Project - A2",
-        "description": "",
-        "github": ""
-    },
-    "3": {
-        "name": "Oxymètre de pouls", 
-        "tech": "Electronic - C",
-        "context": "Scolar Project - A3",
-        "description": "",
-        "github": ""
-    },
-    "4": {
-        "name": "What color is my flower", 
-        "tech": "AI - Python",
-        "context": "Personnal Project",
-        "description": "",
-        "github": ""
-    },
-    "5": {
-        "name": "Php data Generator", 
-        "tech": "PHP - HTML5 - CSS3",
-        "context": "Scolar Project - A2",
-        "description": "",
-        "github": "https://github.com/Katana10/Php-data-generator-public"
-    },
-    "6": {
-        "name": "Glouglou", 
-        "tech": "React - Symfony - Bootstrap",
-        "context": "Scolar Project - A3",
-        "description": 
-        "<br>This project take the form of a website where a diver want to calculate his need in oxygen during a dive.<br> The user enter the dive's caracteristic like the deep, the size of oxygen bottle, and the time that he want to rest in the the deep",
-        "github": "https://github.com/Katana10/Glouglou"
-    }
-    
+"1": {
+    "name": "This portfolio", 
+    "tech": "HTML5 - CSS3 - JS - Bootstrap",
+    "context": "Personnal Project",
+    "description": "",
+    "github": "https://github.com/Katana10/portfolio"
+},
+"2": {
+    "name": "Pong", 
+    "tech": "C++ - Qt5",
+    "context": "Scolar Project - A2",
+    "description": "",
+    "github": ""
+},
+"3": {
+    "name": "Oxymètre de pouls", 
+    "tech": "Electronic - C",
+    "context": "Scolar Project - A3",
+    "description": "",
+    "github": ""
+},
+"4": {
+    "name": "What color is my flower", 
+    "tech": "AI - Python",
+    "context": "Personnal Project",
+    "description": "",
+    "github": ""
+},
+"5": {
+    "name": "Php data Generator", 
+    "tech": "PHP - HTML5 - CSS3",
+    "context": "Scolar Project - A2",
+    "description": "",
+    "github": "https://github.com/Katana10/Php-data-generator-public"
+},
+"6": {
+    "name": "Glouglou", 
+    "tech": "React - Symfony - Bootstrap",
+    "context": "Scolar Project - A3",
+    "description": 
+    "<br>This project take the form of a website where a diver want to calculate his need in oxygen during a dive.<br> The user enter the dive's caracteristic like the deep, the size of oxygen bottle, and the time that he want to rest in the the deep",
+    "github": "https://github.com/Katana10/Glouglou"
 }
